@@ -73,10 +73,3 @@ Auflistung relevante Dateien:
 * https://en.wikipedia.org/wiki/Pac-Man (Abruf, 22.06.2021)
 * https://www.youtube.com/watch?v=ataGotQ7ir8 (Pac-Man Geister-KI erklärt, Abruf, 22.06.2021)
 * https://openprocessing.org/sketch/663582 (openprocessing, Pacman-Sketch, Abruf, 22.06.2021)
-
-## Eigenständigkeitserklärung
-
-Hiermit bestätige ich, dass ich die vorgelegte Projektarbeit eigenständig und ohne fremde Hilfe erstellt habe. Ich erkläre explizit, dass ich kein Plagiat begangen habe, d.h. dass ich keinen Code/Text aus nicht dokumentierten Quellen verwendet habe und dass nicht umfängliche Teile des Codes (>= 20%) eine “Kopierleistung” sind. Quellen, die ich benutzt habe, sind vollständig in der Dokumentation angegeben. Ich bestätige außerdem, dass die Projektarbeit nicht vor dem SoSe 2021 entstanden ist und noch nirgends als Prüfungs- oder Zulassungsleistung (wie z.B. zur Klausurzulassung) vorgelegt worden ist. Mir ist klar, dass die abgegebene Prüfungsleistung für PiS annulliert wird, sollte ich keine Zulassung für PiS besitzen.
-
-
-# Pacman-with-Processing
