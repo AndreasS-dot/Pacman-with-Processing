@@ -1,7 +1,3 @@
-# Kurzbeschreibung Pacman
-
-Autor: Andreas Schiefer, 5339941
-
 ## Kurzbeschreibung (50-150 Wörter)
 
 Das Projekt orientiert sich stark an dem bekannten Videospiel Pac-Man und übernimmt viele Funktionen aus dem Spieleklassiker. Das Spielprinzip ist, dass Pac-Man Punkte in einem Labyrinth sammeln/essen muss. Verfolgt wird er dabei von vier Geistern. Gibt es eine Kollision zwischen Pac-Man und einem Geist verliert Pac-Man ein Leben. Wenn Pac-Man kein Leben mehr hat, beginnt das Spiel von vorne. Wenn er alle Punkte gegessen hat, startet das nächste Level. Es gibt einige Extrapunkte auf dem Spielfeld. Wenn Pac-Man diese sammelt/isst, dann sind die Geister in einem Unsichtbarkeits-Modus, in dem die Kollision mit Pac-Man keine Auswirkung hat. Dieser Unsichtbarkeits-Modus verschwindet nach einer gewissen Zeit. 
