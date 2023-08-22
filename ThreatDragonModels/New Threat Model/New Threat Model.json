@@ -8,8 +8,18 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 0,
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "NeuesdSTRIDE Diagramm",
+        "diagramType": "STRIDE",
+        "placeholder": "Neue STRIDE Diagramm Beschreibung",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.0.5",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
     "reviewer": "",
     "threatTop": 0
   }
